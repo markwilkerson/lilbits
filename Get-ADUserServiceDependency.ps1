@@ -1,5 +1,5 @@
 ﻿# Provide an OU to search.
-$SearchBaseOU = "OU=Camelot WIMS Servers,OU=Infrastructure,OU=Keller Logistics Group,DC=Keller,DC=local"
+$SearchBaseOU = "OU=hurp,OU=durp,OU=twiddly,DC=derrmain,DC=dotlocal"
 
 # Provide a username to search.
 $SearchForThisName = "*klgadm"
