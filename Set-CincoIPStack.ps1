@@ -27,3 +27,6 @@ New-NetIPAddress –InterfaceAlias $NIC_CARD.InterfaceAlias.ToString() –IPAddr
 Set-DnsClientServerAddress -InterfaceAlias $NIC_CARD.InterfaceAlias.ToString() -ServerAddresses ($DNSSERVER_ADDRESS)
 
 Rename-Computer -NewName $SERVER_NAME -Restart
+
+
+#I'm Monkeys and I like to edit now
